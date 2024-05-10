@@ -1,2 +1,2 @@
 # fullstack-stocks-screener-app
-one step solution to all investments problems
+One step solution to all investment problems.
