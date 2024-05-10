@@ -14,4 +14,5 @@ public class Stats {
   public List<Fundamentals> fundamentals;
   public Details details;
   public List<FinancialStatements> financialStatement;
+
 }
